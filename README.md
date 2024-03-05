@@ -8,7 +8,7 @@ My name is Minh Vu. I a Student in HCM University of Science. in Mathematic and 
 
 ![Minh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Minhvu87&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/Minhvu87/ShopmeCart">
+<a href="https://github.com/Minhvu87/ShopmeCart/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Minhvu87&repo=ShopmeCart&theme=radical" />
 </a>    
@@ -17,13 +17,13 @@ My name is Minh Vu. I a Student in HCM University of Science. in Mathematic and 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Minhvu87&repo=Project-Tweet_Emotion_Recognition&theme=merko" />
 </a>
 
-<a href="https://github.com/Minhvu87/HCMUS_Project_FrequencyWord">
+<a href="https://github.com/Minhvu87/HCMUS_Project_FrequencyWord/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Minhvu87&repo=HCMUS_Project_FrequencyWord&theme=gruvbox" />
 </a>    
-<a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
+<a href="https://github.com/Minhvu87/HCMUS_Project_Design-Shape-OOP/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-PPO-pytorch&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Minhvu87&repo=HCMUS_Project_Design-Shape-OOP&theme=dark" />
 </a>
 
 <a href="https://github.com/uvipen/Flappy-bird-deep-Q-learning-pytorch/">
