@@ -17,9 +17,9 @@ My name is Minh Vu. I a Student in HCM University of Science. in Mathematic and 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Minhvu87&repo=Project-Tweet_Emotion_Recognition&theme=merko" />
 </a>
 
-<a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
+<a href="https://github.com/Minhvu87/HCMUS_Project_FrequencyWord">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=Super-mario-bros-A3C-pytorch&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Minhvu87&repo=HCMUS_Project_FrequencyWord&theme=gruvbox" />
 </a>    
 <a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
