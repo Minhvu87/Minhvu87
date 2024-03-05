@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+My name is Minh Vu. I a Student in HCM University of Science. in Mathematic and Computer Science, majoring in Mathematic and Computer Science Application. I am interested in the following topics: AI, Database, Web App <br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/v%C5%A9-quang-minh-1744a1185/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Minhvu87)
@@ -8,9 +8,9 @@ My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificia
 
 ![Minh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Minhvu87&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/Minhvu87/QuickDraw/">
+<a href="https://github.com/Minhvu87/ShopmeCart">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Minhvu87&repo=QuickDraw&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Minhvu87&repo=ShopmeCart&theme=radical" />
 </a>    
 <a href="https://github.com/Minhvu87/ASCII-generator/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
